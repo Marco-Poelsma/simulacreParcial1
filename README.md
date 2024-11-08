@@ -1,0 +1,1 @@
+Cada ejercicio está en su carpeta correspondiente
